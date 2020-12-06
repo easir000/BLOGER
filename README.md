@@ -1,7 +1,3 @@
-# Laravel Blog
-A simple blog for demonstration purpose. Based on Laravel 7.
-# Demo
-https://youtu.be/aVnhvvWIpPc
 # Installation
 Clone the repository-
 Then cd into the folder with this command-
@@ -37,10 +33,7 @@ Run ``` php artisan storage:link ``` to link storage to public file
 <p align="center"><img src="https://github.com/YoussefHarizi/myblog/blob/master/screenshots/profile.png" style="width:400;box-shadow: 2px 2px 5px black;margin-bottom:2px"></p>
 <p align="center"><img src="https://github.com/YoussefHarizi/myblog/blob/master/screenshots/front.png" style="width:400;box-shadow: 2px 2px 5px black;"></p>
 
-## Contributing
 
-Do not hesitate to contribute to the project by adapting or adding features ! Bug reports or pull requests are welcome.
 
-## License
-This project is released under the [MIT license](https://opensource.org/licenses/MIT).
+
 
