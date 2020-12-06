@@ -28,6 +28,16 @@ Run ``` php artisan storage:link ``` to link storage to public file
 
 Run ``` php artisan serve ``` to run the project locally 
 
+Run ``` php artisan --version ``` to check the project locally .
+
+user can registration ,then login <<create any post or update or delete<< and can check the comment. 
+
+one demo login data
+email   :: easir956@gmail.com
+password:: 018air,.
+
+
+
 
 
 
